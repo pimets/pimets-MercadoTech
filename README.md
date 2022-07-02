@@ -1,6 +1,7 @@
 # pimets-MercadoTech
 
 Participantes:
-Nicolas Gadpen
-Fernanda Villafañe Taverna
-Ximena Echavarria
+Nicolas Sebastian Gadpen
+Maria Fernanda Villafañe Taverna
+Maria Ximena Echavarria
+	
